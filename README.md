@@ -1,8 +1,8 @@
 # Landing Page
 Landing Page Practice
 
-Done? | Name
-:---:| ---
+Done? | Name | By
+:---:| --- | ---
 ✅| Create a GIT repo
 ⬜️️| Create initial commit
 ⬜️️| Installation and environment preparation
@@ -16,7 +16,3 @@ Done? | Name
 ⬜️️| Contact section
 ⬜️| Footer section
 
-Done? | Name
-:---:| ---
-⬜️| Nope
-✅| Yep
