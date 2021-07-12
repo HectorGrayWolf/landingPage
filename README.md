@@ -1,10 +1,10 @@
 # Landing Page
 Landing Page Practice
 
-Done? | Name
+Done? | Name | By
 :---:| ---
-⬜️| Create a GIT repo
-✅| Create initial commit
+✅| Create a GIT repo | Héctor
+⬜️️| Create initial commit
 ⬜️️| Installation and environment preparation
 ⬜️| Install dependencies
 ⬜️️| Project structure
@@ -15,8 +15,3 @@ Done? | Name
 ⬜️| About section
 ⬜️️| Contact section
 ⬜️| Footer section
-
-Done? | Name
-:---:| ---
-⬜️| Nope
-✅| Yep
