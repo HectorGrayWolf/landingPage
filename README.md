@@ -1,7 +1,7 @@
 # Landing Page
 Landing Page Practice
 
-[] Create a GIT repo
+- [&#9745] Create a GIT repo
 [] Create initial commit
 [] Installation and environment preparation
 [] Install dependencies
