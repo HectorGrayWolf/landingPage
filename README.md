@@ -14,3 +14,8 @@ Done? | Name
 ⬜️| About section
 ⬜️️| Contact section
 ⬜️| Footer section
+
+Done? | Name
+:---:| ---
+⬜️| Nope
+✅| Yep
