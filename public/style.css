@@ -61,3 +61,67 @@
 .nav__links li a:hover {
     color: var(--primary)
 }
+
+/** Main **/
+
+.start-section{
+    background-color: var(--primary);
+    text-align: center;
+    color: white;
+    padding-top: calc(2rem + 74px);
+    padding-bottom: 6rem;
+}
+
+.container-start-section,
+.container-start-section-fluid,
+.container-start-section-xl,
+.container-start-section-lg,
+.container-start-section-md,
+.container-start-section-sm {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  padding-right: 1.5rem;
+  padding-left: 1.5rem;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+
+.title-start-section{
+    font-size: 3.75rem;
+    line-height: 2.75rem;
+    text-transform: uppercase;
+    margin-bottom: 0 !important;
+    margin-top: 2rem;
+    font-weight: bold;
+}
+
+.divider{
+    margin: 1.25rem 0 1.5rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.divider .divider-line{
+    width: 100%;
+    max-width: 7rem;
+    height: 0.25rem;
+    background-color: white;
+    border-radius: 1rem;
+    border-color: white !important;
+    margin-right: 1rem;
+    margin-left: 1rem;
+}
+.divider .divider-icon{
+    font-size: 2rem;
+}
+.subheading{
+    font-size: 1.25rem;
+}
+
+.avatar{
+    width: 14rem;
+}
