@@ -2,6 +2,7 @@
 Landing Page Practice
 
 Done? | Name
+:---:| ---
 ⬜️| Create a GIT repo
 ✅| Create initial commit
 ⬜️️| Installation and environment preparation
