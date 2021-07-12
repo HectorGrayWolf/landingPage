@@ -1,7 +1,7 @@
 # Landing Page
 Landing Page Practice
 
-Done? | Name | By
+Done? | Name
 :---:| ---
 ✅| Create a GIT repo
 ⬜️️| Create initial commit
