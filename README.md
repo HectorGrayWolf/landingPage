@@ -3,7 +3,7 @@ Landing Page Practice
 
 Done? | Name | By
 :---:| ---
-✅| Create a GIT repo | Héctor
+✅| Create a GIT repo |Héctor
 ⬜️️| Create initial commit
 ⬜️️| Installation and environment preparation
 ⬜️| Install dependencies
