@@ -1,14 +1,74 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="../node_modules/bootstrap/scss/bootstrap.min.css">
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css"
+        integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+    <!-- Font Icons -->
+    <script src="https://kit.fontawesome.com/29ea724459.js" crossorigin="anonymous"></script>
     <title>Landing Page</title>
 </head>
+
 <body>
-    
+    <!-- Portfolio Section -->
+    <section class="page-section portfolio">
+        <!-- Portfolio Section Heading-->
+        <div class="d-flex flex-row justify-content-center py-5">
+            <h2 class="text-center text-uppercase text-secondary mb-0">portfolio</h2>
+        </div>
+        <!-- Icon divider -->
+        <!-- <div class="container"> -->
+            <div class="divider-custom">
+                <div class="divider-custom-line"></div>
+                <i class="fas fa-star fa-2x"></i>
+                <!-- <div class="divider-icon"> -->
+                <!-- </div> -->
+                <div class="divider-custom-line"></div>
+            </div>
+        <!-- </div> -->
+        <!-- Portfolio Grid Items From JS #placehere -->
+        <div class="d-flex flex-row flex-wrap mb-5" id="placehere">
+        </div>
+    </section>
+
+
+
+    <!-- Modal -->
+    <div class="modal fade" id="portfolio" tabindex="-1" aria-labelledby="modalPortfolio" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="modalPortfolio">Modal title</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    ...
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-primary">Save changes</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <script src="../app.js"></script>
+    <!-- Bootstrap -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns"
+        crossorigin="anonymous"></script>
 </body>
+
 </html>
